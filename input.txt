@@ -1,0 +1,22 @@
+{
+	"username" :"nish",
+	"password" :"123",	
+}
+
+{
+	"username" :"nish",
+	"password" :"123",
+	"url":"https://upload.wikimedia.org/wikipedia/commons/1/17/Zebra_%2824694097565%29.jpg"
+	
+}
+
+{
+	"username" :"nish",
+	"password" :"abc",
+	"amount":5,
+	"url":"https://upload.wikimedia.org/wikipedia/commons/1/17/Zebra_%2824694097565%29.jpg"
+	
+}
+
+
+
